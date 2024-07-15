@@ -1,6 +1,10 @@
 # Twitter font
 assets/Chirp.ttf
 
+# Output files
+out/BadFox.mp4
+out/audioless_output.mp4
+
 # GitHub's default gitignore
 # Half of this stuff is useless to this project but, like, whatever dude
 
